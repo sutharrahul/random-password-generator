@@ -1,4 +1,4 @@
-### Password Generator README
+### Password Generator
 
 This is a simple password generator application built with React, Vite, Tailwind CSS, and DaisyUI. It allows users to generate passwords based on their preferences, including the option to include numbers and special characters.
 
@@ -45,9 +45,5 @@ Once the application is running, you'll be presented with a simple UI for genera
 - **useState**: Used for managing the state of the application, including password generation settings.
 - **useRef**: Used for accessing DOM elements, particularly for copying the generated password.
 - **useCallback**: Used for memoizing functions to prevent unnecessary re-renders.
-
-#### Acknowledgments
-
-This project was created following the guidance of tutorials and documentation for React, Vite, Tailwind CSS, and DaisyUI. Special thanks to the developers and contributors of these technologies for their hard work and dedication.
 
 ---
