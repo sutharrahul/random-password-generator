@@ -46,8 +46,4 @@ Once the application is running, you'll be presented with a simple UI for genera
 - **useRef**: Used for accessing DOM elements, particularly for copying the generated password.
 - **useCallback**: Used for memoizing functions to prevent unnecessary re-renders.
 
-#### Acknowledgments
-
-This project was created following the guidance of tutorials and documentation for React, Vite, Tailwind CSS, and DaisyUI. Special thanks to the developers and contributors of these technologies for their hard work and dedication.
-
 ---
