@@ -1,4 +1,4 @@
-### Password Generator README
+### Password Generator
 
 This is a simple password generator application built with React, Vite, Tailwind CSS, and DaisyUI. It allows users to generate passwords based on their preferences, including the option to include numbers and special characters.
 
