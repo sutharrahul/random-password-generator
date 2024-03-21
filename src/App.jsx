@@ -44,8 +44,8 @@ function App() {
       <h1 className="text-white text-4xl font-semibold text-center py-8 ">
         Random Password Generator
       </h1>
-      <div className="px-2">
-        <div className="flex justify-center py-5">
+      <div className="px-2 ">
+        <div className="flex justify-center py-5 gap-x-1">
           <input
             type="text"
             value={password}
